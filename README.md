@@ -5,7 +5,7 @@ Este projeto tem como objetivo a criação de um marketplace para vendedores, bu
 O frontend da aplicação será desenvolvido com HTML, CSS e JavaScript.
 
 ## Design das Telas - Figma: 
-Link para o Figma:
+Link para o Figma: https://www.figma.com/design/1PznoWQ9FGlWg0nOrzqFPy/Projeto?node-id=0-1&t=6CcDdAnW8UyBIvrb-1
 
 ## Design System: 
 Link para o PDF:

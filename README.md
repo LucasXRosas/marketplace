@@ -58,3 +58,6 @@ Link para a Produção
 
 ## Manual de execução
 "a implementar..."
+
+## Telas
+"a implementar..."

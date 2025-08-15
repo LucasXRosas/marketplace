@@ -8,10 +8,10 @@ O frontend da aplicação será desenvolvido com HTML, CSS e JavaScript.
 Link para o Figma: https://www.figma.com/design/1PznoWQ9FGlWg0nOrzqFPy/Projeto?node-id=0-1&t=6CcDdAnW8UyBIvrb-1
 
 ## Design System: 
-Link para o PDF:
+Link para o PDF: "A implementar..."
 
 ## Site em Produção - GitHub Pages
-Link para a Produção
+Link para a Produção: "A implementar..."
 
 ## Framework CSS
 **Bootstrap**

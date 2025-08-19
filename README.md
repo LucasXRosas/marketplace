@@ -14,7 +14,7 @@ Link para o PDF: "A implementar..."
 Link para a Produção: "A implementar..."
 
 ## Framework CSS
-**Bootstrap**
+**Tailwind**
 
 ## Dependências JavaScript
 "A implementar..."
